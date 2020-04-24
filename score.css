@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+  background-color: #035aa6;
+}
+
+.win{
+  color: green;
+}
+.copyright{
+  margin-top : 20%;
+  color : #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
